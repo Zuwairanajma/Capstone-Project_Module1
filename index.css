@@ -568,6 +568,7 @@ footer {
     width: 70%;
     font-size: 55px;
     font-weight: 700;
+    background-clip: text;
     -webkit-background-clip: text;
     color: transparent;
     background-image: url(../images/text_bg.jpeg);
@@ -590,12 +591,6 @@ footer {
     width: 600px;
     text-align: left;
   }
-
-  /* .main-program hr {
-    margin-top: 20px;
-    height: 5px;
-    width: 150px;
-  } */
 
   .program-name {
     color: #f94129;
