@@ -23,11 +23,12 @@
 
 
 Capstone Project Module1 is a HTML, CSS, and JS website project for an upcoming summit. The project consist of The following sections
--Toolbar and headline section.
--The work version and about me version. 
--The contact form.
--The desktop version.
--Mobile Menu functionality.
+-The About page.
+-The Home page. 
+-The card section.
+-The partner section.
+-Exhibition.
+-The functionality on Mobile Menu
 
 ## 🛠 Built With <a name="built-with"></a>
 ### Tech Stack <a name="tech-stack"></a>
@@ -53,11 +54,10 @@ Capstone Project Module1 is a HTML, CSS, and JS website project for an upcoming 
 </details>
 
 ### Key Features <a name="key-features"></a>
-- **Navbar (menu-bar)**
 - **headbar-menu**
-- **container_text**
+- **Menu list functionality**
 - **Responsive**
-- **navicon**
+- **program icon**
 - **Media Query**
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -70,7 +70,7 @@ You can view this project using this URL " https://zuwairanajma.github.io/Capsto
 
 ## Walkthrough <a name="walkthrough"></a>
 
-- [Loom Video](https://www.loom.com/share/fe93f7c4768a485f88285b6e18e3d169?sid=63fb5738-b9ad-4c3a-a820-357fae3e9e85)
+- [Loom Video](https://www.loom.com/share/7edb169dff064e36970b49ccd1612989?sid=8b399001-7157-4b61-98a1-5ae2a265ec00)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

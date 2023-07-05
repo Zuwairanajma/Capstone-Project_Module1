@@ -144,7 +144,6 @@ ul li a {
   font-size: 40px;
   padding-top: 10px;
   padding-bottom: 10px;
-  background-clip: text;
   -webkit-background-clip: text;
   color: transparent;
   background-image: url(../images/text_bg.jpeg);
@@ -229,8 +228,6 @@ ul li a {
   justify-content: center;
   align-items: center;
   gap: 5px;
-
-  /* text-align: center; */
   width: 100%;
   background: rgba(186, 167, 167, 0.1);
   padding: 15px;
@@ -291,9 +288,6 @@ ul li a {
 
 .speakers:nth-child(1n+3) {
   display: none;
-
-  /* transition: transform 0.5s;
-  transform: translateY(-1500%); */
 }
 
 .img-holder {
@@ -567,7 +561,6 @@ footer {
     width: 70%;
     font-size: 55px;
     font-weight: 700;
-    background-clip: text;
     -webkit-background-clip: text;
     color: transparent;
     background-image: url(../images/text_bg.jpeg);
