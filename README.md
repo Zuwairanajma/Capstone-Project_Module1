@@ -62,7 +62,7 @@ Capstone Project Module1 is a HTML, CSS, and JS website project for an upcoming 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🚀 Live Demo <a name="live-demo"></a>
-You can view this project using this URL "https://zuwairanajma.github.io/Portfolio-Projects/"
+You can view this project using this URL " https://zuwairanajma.github.io/Capstone-Project_Module1/"
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p
 
