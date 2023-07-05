@@ -148,8 +148,6 @@ ul li a {
   -webkit-background-clip: text;
   color: transparent;
   background-image: url(../images/text_bg.jpeg);
-
-  /* background-image: url(./images/imagefortext.jpg); */
 }
 
 .intro-heading p {
@@ -572,7 +570,7 @@ footer {
     background-clip: text;
     -webkit-background-clip: text;
     color: transparent;
-    /* background-image: url(../images/text_bg.jpeg); */
+    background-image: url(../images/text_bg.jpeg);
   }
 
   .main-program hr {
